@@ -7,4 +7,3 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/intex/Cloud_Q11/etc
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/intex/Cloud_Q11/vendor,system/vendor)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/intex/Cloud_Q11/xbin,system/xbin)
-
