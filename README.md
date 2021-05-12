@@ -1,6 +1,6 @@
-# device Tree 
+# Vendor Tree 
 
-<b>clone Command</b> :  git clone https://github.com/aryankaran/los15.1_dt_intex_Cloud_Q11.git -b device device/intex/Cloud_Q11
+<b>clone Command</b> :  git clone https://github.com/aryankaran/los15.1_dt_intex_Cloud_Q11.git -b vendor vendor/intex/Cloud_Q11
 
 Intex Cloud Q11
 ===============================================
