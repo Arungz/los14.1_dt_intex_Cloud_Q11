@@ -13,7 +13,7 @@ TARGET_SCREEN_WIDTH := 720
 
 # Device identifier. This must come after all inclusions
 
-PRODUCT_DEVICE := Cloud_Q11
+PRODUCT_DEVICE := cm_Cloud_Q11
 PRODUCT_NAME := cm_Cloud_Q11
 PRODUCT_BRAND := Intex
 PRODUCT_MODEL := Cloud Q11
