@@ -1,6 +1,4 @@
 # Release name
-PRODUCT_RELEASE_NAME := Intex Cloud Q11
-
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
@@ -18,3 +16,4 @@ PRODUCT_NAME := cm_Cloud_Q11
 PRODUCT_BRAND := Intex
 PRODUCT_MODEL := Cloud Q11
 PRODUCT_MANUFACTURER := intex
+PRODUCT_RELEASE_NAME := Intex Cloud Q11
