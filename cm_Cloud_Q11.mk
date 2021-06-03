@@ -4,7 +4,7 @@ PRODUCT_RELEASE_NAME := Cloud_Q11
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/intex/Cloud_Q11/device_Cloud_Q11.mk)
+$(call inherit-product, device/intex/Cloud_Q11/device.mk)
 
 # Correct bootanimation size for the screen
 TARGET_SCREEN_HEIGHT := 1280
